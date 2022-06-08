@@ -1,0 +1,42 @@
+_repo: Tirano-Banderas-Novela-de-tierra-caliente_68154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valle-Inclán, Ramón del
+    aliases:
+    - Del Valle-Inclán, Ramón
+    - Valle-Inclan, Ramon del
+    - Del, Valle-Inclán Ramón
+    - Montenegro, Ramón María del Valle Inclán y
+    - Montenegro, Ramon Maria del Valle Inclan y
+    - Inclán, Ramón del Valle
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '3562'
+    url: http://www.gutenberg.org/2009/agents/3562
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
+    - https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_del_Valle-Incl%C3%A1n
+description: ''
+gutenberg_issued: '2022-05-23'
+identifiers:
+  gutenberg: '68154'
+language: es
+pgterms:marc904: http://bdh.bne.es/bnesearch/detalle/bdh0000231827
+pgterms:marc905: 20220417091053valleincln
+pgterms:marc906: '1926'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by Biblioteca Digital Hispánica/Biblioteca Nacional de España.)
+publication_note: Spain :Imprenta Rivadeneyra,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dictators -- Fiction'
+- !lcsh 'Imaginary revolutions -- Fiction'
+- !lcsh 'Imaginary societies -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Tirano Banderas: Novela de tierra caliente'
+url: http://www.gutenberg.org/ebooks/68154
