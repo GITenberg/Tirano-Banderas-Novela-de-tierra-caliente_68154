@@ -1,5 +1,8 @@
 _repo: Tirano-Banderas-Novela-de-tierra-caliente_68154
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68154-h/images/cover.jpg
 creator:
   author:
     agent_name: Valle-Inclán, Ramón del
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
     - https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_del_Valle-Incl%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68154#Tirano-Banderas-Novela-de-tierra-caliente
 gutenberg_issued: '2022-05-23'
 identifiers:
   gutenberg: '68154'
